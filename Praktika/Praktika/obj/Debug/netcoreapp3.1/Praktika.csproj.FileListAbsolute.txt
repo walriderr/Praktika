@@ -1,0 +1,16 @@
+C:\Users\walrider\source\repos\Praktika\Praktika\bin\Debug\netcoreapp3.1\Praktika.exe
+C:\Users\walrider\source\repos\Praktika\Praktika\bin\Debug\netcoreapp3.1\Praktika.deps.json
+C:\Users\walrider\source\repos\Praktika\Praktika\bin\Debug\netcoreapp3.1\Praktika.runtimeconfig.json
+C:\Users\walrider\source\repos\Praktika\Praktika\bin\Debug\netcoreapp3.1\Praktika.runtimeconfig.dev.json
+C:\Users\walrider\source\repos\Praktika\Praktika\bin\Debug\netcoreapp3.1\Praktika.dll
+C:\Users\walrider\source\repos\Praktika\Praktika\bin\Debug\netcoreapp3.1\Praktika.pdb
+C:\Users\walrider\source\repos\Praktika\Praktika\bin\Debug\netcoreapp3.1\LabMath.dll
+C:\Users\walrider\source\repos\Praktika\Praktika\obj\Debug\netcoreapp3.1\Praktika.csproj.AssemblyReference.cache
+C:\Users\walrider\source\repos\Praktika\Praktika\obj\Debug\netcoreapp3.1\Praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walrider\source\repos\Praktika\Praktika\obj\Debug\netcoreapp3.1\Praktika.AssemblyInfoInputs.cache
+C:\Users\walrider\source\repos\Praktika\Praktika\obj\Debug\netcoreapp3.1\Praktika.AssemblyInfo.cs
+C:\Users\walrider\source\repos\Praktika\Praktika\obj\Debug\netcoreapp3.1\Praktika.csproj.CoreCompileInputs.cache
+C:\Users\walrider\source\repos\Praktika\Praktika\obj\Debug\netcoreapp3.1\Praktika.csproj.CopyComplete
+C:\Users\walrider\source\repos\Praktika\Praktika\obj\Debug\netcoreapp3.1\Praktika.dll
+C:\Users\walrider\source\repos\Praktika\Praktika\obj\Debug\netcoreapp3.1\Praktika.pdb
+C:\Users\walrider\source\repos\Praktika\Praktika\obj\Debug\netcoreapp3.1\Praktika.genruntimeconfig.cache
